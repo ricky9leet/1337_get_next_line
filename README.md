@@ -1,5 +1,3 @@
----
-
 <h1 align="center">🚀 1337 Project: get_next_line</h1>
 
 <p align="center">
@@ -12,6 +10,8 @@
   <span> · </span>
   <a href="#-useful-links">🔗 Useful Links</a>
 </h3>
+
+---
 
 ## 🏆 Project Score: **112/100** 🎉
 
