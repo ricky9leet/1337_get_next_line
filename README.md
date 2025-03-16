@@ -1,5 +1,18 @@
 ---
 
+<h1 align="center">🚀 1337 Project: get_next_line</h1>
+
+<p align="center">
+  <b><i>Development repository for the 42cursus' get_next_line project</i></b><br>
+  For more about 1337 Coding School and its projects, feel free to connect with me on <a href="https://www.linkedin.com/in/tellat-ilyas/"><b>LinkedIn</b></a>.
+</p>
+
+<h3 align="center">
+  <a href="#-about">📖 About</a>
+  <span> · </span>
+  <a href="#-useful-links">🔗 Useful Links</a>
+</h3>
+
 ## 🏆 Project Score: **112/100** 🎉
 
 I successfully completed the `get_next_line` project, including the bonus part handling multiple file descriptors, with an **exceptional score!**
