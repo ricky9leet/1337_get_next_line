@@ -15,8 +15,8 @@
 
 ## 🏆 Project Score: **112/100** 🎉
 
-I successfully completed the `get_next_line` project, including the bonus part handling multiple file descriptors, with an **exceptional score!**
-(The code I provided is fixed so the final grade for it would be 125/100)
+I successfully completed the `get_next_line` project, including the bonus part handling multiple file descriptors, with an **exceptional score!** 
+(The code I provided is fixed so the final grade for it would be 125/100).
 
 ## 📜 What is `get_next_line`?
 
